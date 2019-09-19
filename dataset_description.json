@@ -17,6 +17,7 @@
         "GRANT #670798"
     ],
     "HowToAcknowledge": "With using this data please cite the papers in References and Links",
-    "License": "PDDL (http://opendatacommons.org/licenses/pddl/)",
-    "Name": "Human Olfaction Without Apparent Olfactory Bulbs"
+    "License": "CC0",
+    "Name": "Human Olfaction Without Apparent Olfactory Bulbs",
+    "DatasetDOI": "10.18112/openneuro.ds002185.v1.0.0"
 }
