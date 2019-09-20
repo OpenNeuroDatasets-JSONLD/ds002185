@@ -1,4 +1,4 @@
-notes regarding Functional MRI paradigm and analysis:
+Functional MRI paradigm and analysis:
 Odor delivery continue for a duration of 3 sec, The duration in the event files is the first sniff. 
 
 sub-05_task-odors_run-02: Subject fell asleep in the end of the run, thus the time course was trim (29 dicoms), and excluding the last trial.
