@@ -1,16 +1,22 @@
 Functional MRI paradigm and analysis:
-In each of two functional runs, 10 stimuli per valence were delivered, culminatingin 20 pleasant and 20 unpleasant odourant events in both runs. Stimulus duration = 3 sec, ISI = 20-26 sec (jittered), odoUrant onset triggered by inhalation onset.
-Thus, the duration in the event files is the first sniff. 
+In each of two functional runs, 10 stimuli per valence were delivered, culminatingin 20 pleasant and 20 unpleasant odourant events in both runs. Stimulus duration = 3 sec, ISI = 20-26 sec (jittered), odourant onset triggered by inhalation onset.
+Thus, the duration in the event files is the duration of the first sniff. 
 
-sub-05_task-odors_run-02: Subject fell asleep in the end of the run, thus the time course was trim (29 dicoms), and excluding the last trial.
+sub-05_task-odors_run-02: Subject fell asleep in the end of the run, thus the time course was trim (29 dicoms), and the last trial was excluded.
 sub-08: sometimes press too weak on the buttons, so the response was not recorded.
-sub-09_task-odors_run-02: skip the first 60 dicoms due to sharp head movement (translation in Y direction >4mm).
+sub-09_task-odors_run-02: skip the first 60 dicoms due to sharp head movement (translation in Y direction > 4mm).
 sub-11: many times she did not press because felling asleep
 sub-15: excluded from the analysis due to atypical hemodynamic response.
-sub-12, sub-16: due to technical error the odour bacon was deliver instead of smelly-cheese.
+sub-12, sub-16: due to technical error the odour bacon was delivered instead of smelly-cheese.
 sub-18_task-odors_run-02 confused with the ratings, thus we applied n/a
 
-column1: run01-skip; column2:run01-NumberOfDicoms(before skip); column3:run02-skip; column4:run02-NumberOfDicoms(before skip)
+
+column1: subject code
+column2: run01 - DICOMs to skip
+column3: run01 - Number Of DICOMs (before skip)
+column4: run02 - DICOMs to skip
+column5: run02 - Number Of DICOMs (before skip)
+
 sub-01	16	415	 2	440
 sub-02	32	440	 2	440
 sub-03	16	404	 2	398
