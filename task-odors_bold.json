@@ -1,5 +1,5 @@
 {
-    "TaskName": "Rating odor pleasantness",
+    "TaskName": "Olfactory task, detection and odor pleasantness ratings",
     "Description": ["Four odorants with previously-verified iso-intense perception were used.In each of two functional runs, 10 stimuli per valence were delivered, culminating in 20 pleasant and 20 unpleasant odorant events in both runs. Stimulus duration = 3 sec, interstimulus-interval = 20-26 sec (jittered), odourant onset triggered by ihalation onset. Participants were instructed to breathe naturally, to keep their eyes closed, and if they noted an odorant, to rate its pleasantness using a button box placed in their dominant (left) hand."],
   "AcquisitionMatrixPE": 98,
   "AcquisitionNumber": 1,
