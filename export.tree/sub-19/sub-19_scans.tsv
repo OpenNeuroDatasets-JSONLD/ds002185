@@ -1,6 +1,0 @@
-filename	acq_time	operator	randstr
-anat/sub-19_acq-tse_T2w.nii.gz	2018-01-04T13:26:55	n/a	17cf5af6
-func/sub-19_task-odors_run-01_bold.nii.gz	2018-05-28T09:25:29	n/a	e7427198
-anat/sub-19_T1w.nii.gz	2018-05-28T09:42:03	n/a	72558dd7
-func/sub-19_task-odors_run-02_bold.nii.gz	2018-05-28T09:43:09	n/a	0bdd7da7
-dwi/sub-19_dwi.nii.gz	2018-05-28T09:56:50	n/a	5d31d133
