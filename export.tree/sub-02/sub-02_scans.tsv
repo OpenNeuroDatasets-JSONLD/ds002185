@@ -1,6 +1,0 @@
-filename	acq_time	operator	randstr
-func/sub-02_task-odors_run-01_bold.nii.gz	2018-09-26T14:51:23	n/a	95114bf6
-anat/sub-02_T1w.nii.gz	2018-09-26T15:07:29	n/a	2fb03656
-func/sub-02_task-odors_run-02_bold.nii.gz	2018-09-26T15:08:54	n/a	f95e0038
-dwi/sub-02_dwi.nii.gz	2018-09-26T15:21:23	n/a	a070727f
-anat/sub-02_acq-tse_T2w.nii.gz	2018-09-26T15:33:14	n/a	e1111650
